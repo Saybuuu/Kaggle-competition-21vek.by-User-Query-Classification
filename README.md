@@ -7,3 +7,4 @@ This project aims to develop a model that predicts the `CategoryID` based on the
 - **Model training**
 - **Data prediction**
 
+Macro f1 score - 0.84449 
